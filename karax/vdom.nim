@@ -37,6 +37,8 @@ type
     param, video, audio, source, track, canvas, map,
     area, svg, math, path, circle
 
+    svg, svgg = "g", svgrect = "rect"
+
     table, caption, colgroup, col, tbody, thead,
     tfoot, tr, td, th,
 
